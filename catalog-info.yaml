@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: IBM-Integration-Bus-V9
+  description: Sin descripción
+  annotations:
+    github.com/project-slug: crlsquilumba/IBM-Integration-Bus-V9
+spec:
+  type: library
+  lifecycle: experimental
+  owner: user:default/guest
